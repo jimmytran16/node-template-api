@@ -6,7 +6,7 @@ Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
 $ git clone https://github.com/jimmytran16/node-template-api
-$ cd nodetemplate
+$ cd node-template-api
 $ npm install
 $ npm start
 ```
