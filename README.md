@@ -8,6 +8,6 @@ Make sure you have [Node.js](http://nodejs.org/) installed.
 $ git clone https://github.com/jimmytran16/node-template-api
 $ cd node-template-api
 $ npm install
-$ npm start
+$ npm run dev
 ```
 Your app should now be running on [localhost:4000](http://localhost:3000/).
