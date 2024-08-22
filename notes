@@ -1,0 +1,11 @@
+SET UP TYPESCRIPT FOR EXCPRESS PRJOECT: https://www.youtube.com/watch?v=qy8PxD3alWw 
+USE as reference for proejct structure: https://github.com/arifintahu/project-structure-api/blob/main/src/api/routes/v1/roles.ts
+
+TO RUN:
+
+Transpile Typescript files into JS file
+- npm run build
+
+Once it is transpiled, it will go into the dist folder
+Run server
+- npm run start
