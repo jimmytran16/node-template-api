@@ -1,5 +1,5 @@
 # How to set up the template
-This is a Node/Express API template
+This is a Node/Express API template for TYPESCRIPT
 
 ## Local
 Make sure you have [Node.js](http://nodejs.org/) installed.
@@ -8,6 +8,7 @@ Make sure you have [Node.js](http://nodejs.org/) installed.
 $ git clone https://github.com/jimmytran16/node-template-api
 $ cd node-template-api
 $ npm install
-$ npm run dev
+$ npm run build
+$ npm run start
 ```
 Your app should now be running on [localhost:4000](http://localhost:3000/).

@@ -7,7 +7,7 @@ class HomeController {
         next: NextFunction
     ): Promise<void> {
         res.json({
-            message: 'home route',
+            message: 'home route test',
             success:true
         })
     }
